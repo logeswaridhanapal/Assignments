@@ -1,0 +1,31 @@
+* {
+    margin:0;
+    padding:0;
+    font-family: sans-serif;
+
+}
+body{
+    background-image: url(./img.JPG);
+    background-size: cover;
+}
+h2{
+    text-align: center;
+    margin: 0%;
+    padding: 0%;
+}
+form{
+    text-align: center;
+}
+button{
+     align-self:auto;
+     cursor:pointer;
+     background-color: green;
+}
+.container{
+width:360px;
+height:400px;
+margin:8% auto;
+background: white;
+border: radius 5px; 
+position: relative;
+}
